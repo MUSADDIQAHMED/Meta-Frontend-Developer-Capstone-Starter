@@ -45,7 +45,7 @@ nav ul li a:hover{
 .bar {
   width: 25px;
   height: 3px;
-  background-color: black;
+  background-color: rgb(0, 0, 0);
   margin: 5px 0;
 }
 
@@ -72,7 +72,7 @@ nav ul li a:hover{
 /* header section */
 
 .header {
-  background-color: #495e57;
+  background-color: #44655a;
   padding: 40px 0;
 }
 
@@ -149,7 +149,7 @@ input, label{
 .btnReceive input{
   padding: 12px 16px;
   margin-top: 20px;
-  background: #495e57;
+  background: #466c60;
   color: #fff;
   border: none;
   border-radius: 4px;
@@ -221,7 +221,7 @@ footer section{
   padding: 10px 13%;
   display: flex;
   justify-content: space-between;
-  align-items: start;
+  align-items: flex-start;
 }
 
 .company-info img{
